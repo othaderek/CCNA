@@ -64,6 +64,7 @@ Pins 1 and 2 transmit on host and and receive on switch end
 Pins 3 and 6 transmit on switch end and receive on host end
 
 For switch to switch we need
+
 Switch   Switch 
 3 -----> 1 
 6 -----> 2
@@ -71,6 +72,7 @@ Switch   Switch
 2 <----- 6
 
 Gig Ethernet listen and transmit on pins simultaneously
+
 Switch   Switch
 1 <-----> 1
 2 <-----> 2
